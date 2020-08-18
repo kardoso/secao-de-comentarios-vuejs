@@ -1,24 +1,15 @@
-# vuejs-cli
+# Seção de comentários
 
-## Project setup
+Este é um aplicativo simples, em VueJS, que simula uma seção de comentários, podendo adicionar e excluir comentários da página.
+
+## Instalar pacotes do projeto
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar e executar em modo de desenvolvimento
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
